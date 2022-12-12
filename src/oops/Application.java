@@ -1,5 +1,7 @@
 package oops;
 
+import javax.script.ScriptContext;
+
 public class Application {
     public static void main(String[] args) {
         //syntax of object creation
@@ -30,6 +32,20 @@ public class Application {
         car.startEngine();
         car.stopEngine();
         car.move();
+        car.print();
+
+        Chess chess = new Chess();
+        chess.players = 2;
+        chess.chessPiece = 16;
+
+        chess.rules();
+
+        Cricket cricket = new Cricket();
+        cricket.rules();
+        cricket.myteam();
+
+        College college = new College();
+        college.study();
 
     }
 
