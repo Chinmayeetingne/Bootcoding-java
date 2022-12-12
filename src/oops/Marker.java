@@ -2,11 +2,11 @@ package oops;
 
 public class Marker {
 
-    // data member
-    String type;
-    String brand;
-    String color;
-    double price;
+    // data member -  instance variable
+   public String type;
+   public String brand;
+   public  String color;
+     public double price;
 
     //member method
    //Access specifier

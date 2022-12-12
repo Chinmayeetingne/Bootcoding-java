@@ -1,7 +1,6 @@
 package oops;
 
 public class ObjectAssignment {
-
     public static void main(String[] args) {
         //primitive data types
 
