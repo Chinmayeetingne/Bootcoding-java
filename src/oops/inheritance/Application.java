@@ -26,5 +26,9 @@ public class Application {
         dt1.tableType = "Dressing";
         dt1.createTable();
         dt1.move();
+
+        MobileAmbulance ma = new MobileAmbulance();
+        //ma.charges //not accessible here
+        ma.assignCharges();
     }
 }
