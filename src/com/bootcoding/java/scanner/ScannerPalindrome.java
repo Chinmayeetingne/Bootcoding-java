@@ -20,9 +20,10 @@ public class ScannerPalindrome {
 
     private static void printPalindrome(int[] numbers) {
         System.out.println("Palindrome number ");
-            int temp = numbers[0];
+
             for(int i=0;i<numbers.length;i++){
                 int rem = 0;
+                int temp = numbers[i];
                 while(numbers[i]>0){
                     int div = numbers[i] / 10;
                     rem= rem *10 + numbers[i] % 10;
