@@ -2,7 +2,7 @@ package com.bootcoding.java.scanner;
 
 import java.util.Scanner;
 
-public class ScannerArrayDemo {
+public class ArrayDemo {
 
     public static void main(String[] args) {
 
