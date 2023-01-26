@@ -7,7 +7,7 @@ public class AverageConsumption {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter total distance in km : ");
         int distance = sc.nextInt();
-        System.out.println("Enter total fue spent in liters : ");
+        System.out.println("Enter total fuel spent in liters : ");
         float fuel = sc.nextFloat();
         float AverageConsumption =  distance / fuel;
         System.out.println("Average Consumption(km/lt) : " +  AverageConsumption);
