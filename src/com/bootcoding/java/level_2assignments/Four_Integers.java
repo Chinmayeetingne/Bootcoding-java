@@ -16,7 +16,7 @@ public class Four_Integers {
         int r = sc.nextInt();
         System.out.println("Enter the fourth integer :");
         int s= sc.nextInt();
-        if(r>0 && q>0 && (p%2==0) && q>r && s>p && r+s > p+q)
+        if( (p%2==0) && q>r && s>p && r+s > p+q)
         {
             System.out.println("Correct values");
         }
