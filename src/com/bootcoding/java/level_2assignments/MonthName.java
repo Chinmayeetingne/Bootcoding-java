@@ -6,30 +6,30 @@ public class MonthName {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter  month number : ");
-        int monthNunmber = sc.nextInt();
-        if(monthNunmber == 1)
+        int monthNumber = sc.nextInt();
+        if(monthNumber == 1)
             System.out.println("January");
-        else if (monthNunmber == 2)
+        else if (monthNumber == 2)
             System.out.println("February");
-        else if (monthNunmber == 3)
+        else if (monthNumber == 3)
             System.out.println("March");
-        else if (monthNunmber == 4)
+        else if (monthNumber == 4)
             System.out.println("April");
-        else if (monthNunmber == 5)
+        else if (monthNumber == 5)
             System.out.println("May");
-        else if (monthNunmber == 6)
+        else if (monthNumber == 6)
             System.out.println("June");
-        else if (monthNunmber == 7)
+        else if (monthNumber == 7)
             System.out.println("July");
-        else if (monthNunmber == 8)
+        else if (monthNumber == 8)
             System.out.println("August");
-        else if (monthNunmber == 9)
+        else if (monthNumber == 9)
             System.out.println("September");
-        else if (monthNunmber == 10)
+        else if (monthNumber == 10)
             System.out.println("October");
-        else if (monthNunmber == 11)
+        else if (monthNumber == 11)
             System.out.println("November");
-        else if (monthNunmber == 12)
+        else if (monthNumber == 12)
             System.out.println("December");
         else
             System.out.println("Invalid Month");
