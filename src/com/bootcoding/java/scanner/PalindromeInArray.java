@@ -2,7 +2,7 @@ package com.bootcoding.java.scanner;
 
 import java.util.Scanner;
 
-public class ScannerPalindrome {
+public class PalindromeInArray {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
