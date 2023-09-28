@@ -6,6 +6,9 @@ public class BannerApp {
         fb.matter="New batches of java is starting soon";
         fb.type="Flex Banner";
         fb.create();
-        fb.display();
+        fb.print();
+
+        //Constructor chaining
+        //can you inherit constructor-No
     }
 }
