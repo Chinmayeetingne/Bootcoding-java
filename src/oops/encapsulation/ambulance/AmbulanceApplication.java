@@ -1,6 +1,5 @@
-package oops.encapsulation;
+package oops.encapsulation.ambulance;
 
-import java.sql.SQLOutput;
 
 public class AmbulanceApplication {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package oops.inheritance;
+package oops.inheritance.tables;
 
 public class Application {
 

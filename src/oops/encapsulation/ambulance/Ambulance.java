@@ -1,4 +1,4 @@
-package oops.encapsulation;
+package oops.encapsulation.ambulance;
 
 public class Ambulance {
     private String hospitalName;

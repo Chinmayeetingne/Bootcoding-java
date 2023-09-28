@@ -1,6 +1,4 @@
-package oops;
-
-import javax.script.ScriptContext;
+package oops.inheritance.exercise;
 
 public class Application {
     public static void main(String[] args) {
