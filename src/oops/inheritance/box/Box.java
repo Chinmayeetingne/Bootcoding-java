@@ -1,7 +1,4 @@
-package oops;
-
-import java.sql.SQLOutput;
-import java.util.concurrent.ThreadPoolExecutor;
+package oops.inheritance.box;
 
 public class Box {
    //data members

@@ -1,4 +1,6 @@
-package oops;
+package oops.inheritance.box;
+
+import oops.inheritance.box.Box;
 
 public class BoxApplication {
     public static void main(String args[]){
