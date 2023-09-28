@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance.exercise;
 
 class A{
     void showA()

@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance.cycle;
 
 public class Cycle {
     int tyres;
