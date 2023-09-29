@@ -1,4 +1,4 @@
-package oops.Assignment.discount.Service;
+/*package oops.Assignment.discount.Service;
 
 import oops.Assignment.discount.Customer;
 import oops.Assignment.discount.Discount;
@@ -53,5 +53,5 @@ public class DiscountService {
 
         }
 
-    }
-}
+    }*/
+
