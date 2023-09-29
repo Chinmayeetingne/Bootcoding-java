@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance.exercise;
 
 public class Discounts {
     public static void main(String args[]) {
