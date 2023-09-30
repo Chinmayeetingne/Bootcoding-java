@@ -1,7 +1,5 @@
 package com.bootcoding.java.level_2assignments;
 
-import oops.inheritance.DressingTable;
-
 import java.util.Scanner;
 
 public class Four_Integers {
