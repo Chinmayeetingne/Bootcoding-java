@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance.exercise;
 
 public class Helmet {
     String type;
