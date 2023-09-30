@@ -1,6 +1,6 @@
 package keywords;
 
-import oops.Marker;
+import oops.inheritance.exercise.Marker;
 
 public class FinalKeyword {
     public static void main(String[] args) {

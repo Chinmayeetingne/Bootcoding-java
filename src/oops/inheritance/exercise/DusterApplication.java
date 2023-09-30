@@ -1,4 +1,4 @@
-package oops;
+package oops.inheritance.exercise;
 
 public class DusterApplication {
     public static void main(String[] args) {
