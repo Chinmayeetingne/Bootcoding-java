@@ -1,6 +1,6 @@
 package com.bootcoding.java.collection.list;
 
-import oops.Person;
+import oops.inheritance.exercise.Person;
 
 
 import java.util.LinkedList;
