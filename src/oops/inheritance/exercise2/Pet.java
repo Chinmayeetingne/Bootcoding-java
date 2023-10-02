@@ -1,4 +1,4 @@
-package oops.inheritance;
+package oops.inheritance.exercise2;
 
  interface Sim1{
     void inserted();
