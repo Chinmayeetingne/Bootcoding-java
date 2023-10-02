@@ -1,4 +1,6 @@
-package oops.inheritance;
+package oops.inheritance.tables;
+
+import oops.inheritance.tables.Material;
 
 public class Table {
     int legs;

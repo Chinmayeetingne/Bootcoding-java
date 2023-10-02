@@ -1,4 +1,4 @@
-package oops.inheritance;
+package oops.inheritance.exercise2;
 
 abstract class Sim {
     abstract void inserted();
